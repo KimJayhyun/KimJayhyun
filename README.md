@@ -10,6 +10,14 @@
   <img src="https://img.shields.io/badge/podman-20232a.svg?style=for-the-badge&logo=podman&logoColor=61DAFB" />
   
 </div>
+
+<h3 align="center">📞  Contact Information 📞 </h3>
+<div align="center">
+  <a href="mailto:dnlwjem000@gmail.com">
+    <img
+      src="https://img.shields.io/badge/dnlwjem000@gmail.com-08253c?style=for-the-badge&logo=gmail&logoColor=FF4154&"/>&nbsp
+  </a>
+</div>
 <!--
 **KimJayhyun/KimJayhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
