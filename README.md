@@ -13,7 +13,7 @@
 
 <h3 align="center">📞  Contact Information 📞 </h3>
 <div align="center">
-  <a href="mailto:dnlwjem000@gmail.com">
+  <a href="mailto:Kimjayhyun@outlook.kr">
     <img
       src="https://img.shields.io/badge/dnlwjem000@gmail.com-08253c?style=for-the-badge&logo=gmail&logoColor=FF4154&"/>&nbsp
   </a>
