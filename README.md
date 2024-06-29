@@ -15,7 +15,7 @@
 <div align="center">
   <a href="mailto:Kimjayhyun@outlook.kr">
     <img
-      src="https://img.shields.io/badge/dnlwjem000@gmail.com-08253c?style=for-the-badge&logo=gmail&logoColor=FF4154&"/>&nbsp
+      src="https://img.shields.io/badge/Kimjayhyun@outlook.kr-08253c?style=for-the-badge&logo=gmail&logoColor=FF4154&"/>&nbsp
   </a>
 </div>
 <!--
