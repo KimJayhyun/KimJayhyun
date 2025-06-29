@@ -44,11 +44,7 @@ jobs:
           tag_post_pre_newline: true
 
           # 제목 기반 필터링 (회고록 등 개인적인 글 제외)
-          item_exec: |
-            if (item.title.includes('회고')) {
-              return '';
-            }
-            return item;
+          item_exec: "if (post.title.indexOf('회고') > -1 ) post = null;"
 
           # Display customization
           disable_sort: false # Keep posts sorted by date
