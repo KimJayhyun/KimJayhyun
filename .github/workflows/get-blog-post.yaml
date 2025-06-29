@@ -26,7 +26,7 @@ jobs:
 
           # Post display settings
           max_post_count: 5
-          template: $newline $counter. $randomEmoji(💻,⚡,🚀,🔥,✨) [$title]($url) | 📅 $date
+          template: $newline $counter. $randomEmoji(💻,⚡,🚀,🔥,✨) [$title]($url) $newline> 📅 $date
           date_format: "yyyy-mm-dd"
 
           # Commit settings
