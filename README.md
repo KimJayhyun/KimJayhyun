@@ -13,6 +13,7 @@
  5. 📅 2025-05-25  |  🔥 [[Algorithm] Kadane Algorithm - 합이 가장 큰 부분 배열](https://velog.io/@kimjayhyun/Algorithm-Kadane-Algorithm-%ED%95%A9%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EB%B6%80%EB%B6%84-%EB%B0%B0%EC%97%B4)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
@@ -31,11 +32,12 @@
       src="https://img.shields.io/badge/Kimjayhyun@outlook.kr-08253c?style=for-the-badge&logo=gmail&logoColor=FF4154&"/>&nbsp
   </a>
 </div>
-<br>
 
----
+-->
 
-## GitHub Stats
+
+
+## 📊 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kimjayhyun&show_icons=true&theme=radical" alt="KimJayhyun's GitHub stats" />
