@@ -22,7 +22,12 @@
   </a>
 </div>
 <br>
-<div align="center">
+
+---
+
+## GitHub Stats
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kimjayhyun&show_icons=true&theme=radical" alt="KimJayhyun's GitHub stats" />
 </div>
 
@@ -45,5 +50,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 💬 Ask me about ...
+-->
