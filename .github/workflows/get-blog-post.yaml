@@ -1,0 +1,59 @@
+name: Latest Velog Posts Workflow
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours (4 times a day)
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: # Run on push to main branch
+      - main
+      - velog
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Velog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant write permissions
+    steps:
+      - name: 🔄 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 📝 Update README with latest Velog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # RSS Feed URL
+          feed_list: "https://api.velog.io/rss/@kimjayhyun"
+
+          # Post display settings
+          max_post_count: 5
+          template: "- [$title]($url) - $date"
+          date_format: "mmm dd, yyyy"
+
+          # Commit settings
+          committer_username: "velog-bot"
+          committer_email: "velog-bot@users.noreply.github.com"
+          commit_message: "🔄 Updated README with latest Velog posts"
+
+          # README markers
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+
+          # Filtering options
+          filter_dates: "none" # Options: none, today, this_week, this_month, this_year
+          custom_tags: "velog,blog,tech"
+          tag_post_pre_newline: true
+
+          # Display customization
+          disable_sort: false # Keep posts sorted by date
+          # enable_commit_timestamp: true
+
+          # Output formatting
+          # output_only_url: false
+          remove_duplicates: true
+
+          # Advanced options
+          retry_count: 3
+          retry_wait_time: 3
+
+          # GitHub token (automatically provided)
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
