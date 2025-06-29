@@ -5,6 +5,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🚀 [2025 년 상반기 회고](https://velog.io/@kimjayhyun/2025-%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%ED%9A%8C%EA%B3%A0) • Jun 29, 2025- 🚀 [한 주 회고 - 9 회차](https://velog.io/@kimjayhyun/%ED%95%9C-%EC%A3%BC-%ED%9A%8C%EA%B3%A0-9-%ED%9A%8C%EC%B0%A8-r33v1ejm) • Jun 29, 2025- 🚀 [한 주 회고 - 10 회차](https://velog.io/@kimjayhyun/%ED%95%9C-%EC%A3%BC-%ED%9A%8C%EA%B3%A0-10-%ED%9A%8C%EC%B0%A8) • Jun 29, 2025- 🚀 [한 주 회고 - 8 회차](https://velog.io/@kimjayhyun/%ED%95%9C-%EC%A3%BC-%ED%9A%8C%EA%B3%A0-8-%ED%9A%8C%EC%B0%A8) • Jun 29, 2025- 🚀 [[Llama] Special Token 정리](https://velog.io/@kimjayhyun/Llama-Special-Token-%EC%A0%95%EB%A6%AC) • Jun 28, 2025
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">💻 Tech Stack 💻</h3>
