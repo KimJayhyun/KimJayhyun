@@ -24,10 +24,13 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kimjayhyun&show_icons=true&theme=radical" alt="KimJayhyun's GitHub stats" />
-  <a href="https://solved.ac/kimjayhyun/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=KimJayhyun" alt="KimJayhyun's Solved.ac Profile" />
-  </a>
 </div>
+
+<!--
+<a href="https://solved.ac/kimjayhyun/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=KimJayhyun" alt="KimJayhyun's Solved.ac Profile" />
+</a>
+-->
 
 <!--
 **KimJayhyun/KimJayhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
