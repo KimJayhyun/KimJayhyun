@@ -35,7 +35,12 @@
 
 -->
 
+## 📚 Blog Series 📚
 
+1. [LLM Speical Token] Tool Calling, MCP, Agent 이해하기
+  > [링크](https://velog.io/@kimjayhyun/series/LLM-Special-Token-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-Tool-Calling%EA%B9%8C%EC%A7%80)
+  
+  Speical Token부터 Chat Template을 시작으로 Tool Calling과 MCP, Agent의 정의까지 알아보기
 
 ## 📊 GitHub Stats
 
