@@ -1,7 +1,11 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?&type=rect&color=gradient&text=KimJayhyun&fontAlign=30&fontSize=30&textBg=true&animation=fadeIn&desc=My%20Code%20World&descAlign=60&descAlignY=50" alt="header">
 </div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
