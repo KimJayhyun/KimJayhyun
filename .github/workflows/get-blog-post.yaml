@@ -26,8 +26,8 @@ jobs:
 
           # Post display settings
           max_post_count: 5
-          template: $newline $counter. $randomEmoji$randomEmoji(💻,⚡,🚀,🔥,✨) [$title]($url) | 🏷️ $categories | 📅 $date
-          date_format: "mmm dd, yyyy"
+          template: $newline $counter. $randomEmoji(💻,⚡,🚀,🔥,✨) [$title]($url) | 📅 $date
+          date_format: "yyyy-mm-dd"
 
           # Commit settings
           committer_username: "velog-bot"
