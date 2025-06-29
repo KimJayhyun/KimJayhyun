@@ -26,7 +26,7 @@ jobs:
 
           # Post display settings
           max_post_count: 5
-          template: "- 🚀 [$title]($url) • $date\n"
+          template: "- 🚀 [$title]($url) • $date  \n"
           date_format: "mmm dd, yyyy"
 
           # Commit settings
@@ -46,10 +46,6 @@ jobs:
           # Display customization
           disable_sort: false # Keep posts sorted by date
           # enable_commit_timestamp: true
-
-          # 태그 필터링 (원하는 옵션 선택해서 사용)
-          exclude_tags: "draft,private,personal,diary" # 이 태그들이 있는 포스트 제외
-          # include_tags: "tech,programming,development"   # 이 태그들이 있는 포스트만 포함
 
           # Output formatting
           # output_only_url: false
