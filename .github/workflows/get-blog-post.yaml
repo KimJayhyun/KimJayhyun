@@ -26,7 +26,7 @@ jobs:
 
           # Post display settings
           max_post_count: 5
-          template: "- 🚀 [$title]($url) • $date  \n"
+          template: $newline $counter. $randomEmoji [$title]($url) • $date
           date_format: "mmm dd, yyyy"
 
           # Commit settings
@@ -42,6 +42,13 @@ jobs:
           filter_dates: "none" # Options: none, today, this_week, this_month, this_year
           custom_tags: "velog,blog,tech"
           tag_post_pre_newline: true
+
+          # 제목 기반 필터링 (회고록 등 개인적인 글 제외)
+          item_exec: |
+            if (item.title.includes('회고')) {
+              return '';
+            }
+            return item;
 
           # Display customization
           disable_sort: false # Keep posts sorted by date
