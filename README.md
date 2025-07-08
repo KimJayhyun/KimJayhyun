@@ -8,7 +8,7 @@ _"항상 새로운 것을 배우고 도전하는 개발자"_
   <img src="https://capsule-render.vercel.app/api?&type=rect&color=gradient&text=KimJayhyun&fontAlign=30&fontSize=30&textBg=true&animation=fadeIn&desc=My%20Code%20World&descAlign=60&descAlignY=50" alt="header">
 </div> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjayhyun&langs_count=10&layout=compact&theme=dark&hide=jupyter%20notebook)](https://github.com/kimjayhyun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjayhyun&langs_count=10&layout=compact&theme=dark&hide=jupyter%20notebook,html,css,scss)](https://github.com/kimjayhyun)
 
 ## 📝 Latest Blog Posts
 
@@ -21,7 +21,32 @@ _"항상 새로운 것을 배우고 도전하는 개발자"_
 5.  📅 2025-05-25 | 🔥 [[Algorithm] Kadane Algorithm - 합이 가장 큰 부분 배열](https://velog.io/@kimjayhyun/Algorithm-Kadane-Algorithm-%ED%95%A9%EC%9D%B4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EB%B6%80%EB%B6%84-%EB%B0%B0%EC%97%B4)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
+## 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimjayhyun&show_icons=true&theme=radical" alt="KimJayhyun's GitHub stats" />
+</div>
+
+<!-- 백준 이미지
+<a href="https://solved.ac/kimjayhyun/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=KimJayhyun" alt="KimJayhyun's Solved.ac Profile" />
+</a>
+-->
+
+<!-- Default Template
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+- 💬 Ask me about ...
+-->
+
+<!-- Template
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
@@ -41,33 +66,4 @@ _"항상 새로운 것을 배우고 도전하는 개발자"_
   </a>
 </div>
 
--->
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimjayhyun&show_icons=true&theme=radical" alt="KimJayhyun's GitHub stats" />
-</div>
-
-<!--
-<a href="https://solved.ac/kimjayhyun/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=KimJayhyun" alt="KimJayhyun's Solved.ac Profile" />
-</a>
--->
-
-<!--
-**KimJayhyun/KimJayhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 💬 Ask me about ...
 -->
