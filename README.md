@@ -4,6 +4,10 @@
 </div>
 -->
 
+## Certification
+
+2025.11.23 CKA 취득
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
