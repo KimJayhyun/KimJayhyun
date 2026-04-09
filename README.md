@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm an AI Engineer building LLM-powered applications.  
+I'm an AI Engineer with **5 years of experience** building LLM-powered applications.  
 I'm not just a coder — I focus on **solving real problems**, using whatever works best: code, architecture, or creative thinking.  
 Currently interested in **LLM Agents (A2A, MCP)** and **Cloud-Native infrastructure (K8s)**.  
 Experience in both **SI projects** and **in-house solution development**.
