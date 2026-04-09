@@ -76,13 +76,13 @@ Experience in both **SI projects** and **in-house solution development**.
 
 ## 💼 Projects
 
-| Period | Project | Role | Stack |
-|--------|---------|------|-------|
-| 2025.07 ~ 2026.02 | 공공기관 지능형 업무관리 플랫폼 구축 | PL | A2A, MCP, LangChain |
-| 2023.04 ~ 2024.04 | 공공기관 통합원가시스템 업무 자동화 | Dev | ML, Python |
-| 2023.09 ~ 2023.10 | 공공기관 LLM 기반 챗봇 개발 | Dev | LangChain, LLM |
-| 2023.03 ~ 2023.06 | 금융권 지능형 OCR 플랫폼 구축 | Dev | ML, OCR |
-| 2022.08 ~ 2023.02 | 은행권 AI OCR 기반 문서 자동화 시스템 구축 | PL | ML, OCR |
+| Period | Project | Description | Role | Stack |
+|--------|---------|-------------|------|-------|
+| 2025.07 ~ 2026.02 | 공공기관 지능형 업무관리 플랫폼 구축 | 공무원 대상 LLM Agent 개발 | PL | A2A, MCP, LangChain |
+| 2023.04 ~ 2024.04 | 공공기관 통합원가시스템 업무 자동화 | OCR 기반 원가 산정 업무 자동화 | Dev | ML, Python |
+| 2023.09 ~ 2023.10 | 공공기관 LLM 기반 챗봇 개발 | 내부 자료 검색 LLM 챗봇 개발 | Dev | LangChain, LLM |
+| 2023.03 ~ 2023.06 | 금융권 지능형 OCR 플랫폼 구축 | 문서 자동 분류 및 등록 시스템 | Dev | ML, OCR |
+| 2022.08 ~ 2023.02 | 은행권 AI OCR 기반 문서 자동화 시스템 구축 | 금융 서류 검증 자동화 | PL | ML, OCR |
 
 <br/>
 
