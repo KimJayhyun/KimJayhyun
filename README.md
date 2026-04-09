@@ -102,6 +102,7 @@ Experience in both **SI projects** and **in-house solution development**.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kimjayhyun&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjayhyun&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
