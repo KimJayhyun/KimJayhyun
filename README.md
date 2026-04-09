@@ -106,5 +106,9 @@ Experience in both **SI projects** and **in-house solution development**.
 </div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimjayhyun&theme=tokyo-night" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 </div>
