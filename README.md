@@ -63,7 +63,7 @@ Experience in both **SI projects** and **in-house solution development**.
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </div>
 
-## 🚀 Projects
+## 💼 Projects
 
 | Period | Project | Role | Stack |
 |--------|---------|------|-------|
@@ -89,7 +89,7 @@ Experience in both **SI projects** and **in-house solution development**.
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=kimjayhyun&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
