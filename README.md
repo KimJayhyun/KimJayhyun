@@ -24,7 +24,7 @@ Experience in both **SI projects** and **in-house solution development**.
 
 ## 🛠 Tech Stack
 
-**AI**
+**🤖 AI**
 
 <div>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -33,19 +33,34 @@ Experience in both **SI projects** and **in-house solution development**.
   <img src="https://img.shields.io/badge/A2A-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODYwIiBoZWlnaHQ9Ijg2MCIgdmlld0JveD0iMCAwIDg2MCA4NjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iNTQ0IiBjeT0iMzA3IiByPSIyNyIgZmlsbD0id2hpdGUiLz48Y2lyY2xlIGN4PSIxNTQiIGN5PSIzMDciIHI9IjI3IiBmaWxsPSJ3aGl0ZSIvPjxjaXJjbGUgY3g9IjcwNiIgY3k9IjMwNyIgcj0iMjciIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iMzE2IiBjeT0iMzA3IiByPSIyNyIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMzM2LjUgMTkxLjAwM0gxNjJDOTcuNjU4OCAxOTEuMDAzIDQ1LjUgMjQzLjE2MiA0NS41IDMwNy41MDNDNDUuNSAzNzEuODQ0IDk3LjY0NDIgNDI0LjAwMyAxNjEuOTg1IDQyNC4wMDNDMjA2LjU1MSA0MjQuMDAzIDI1Ni4yODggNDI0LjAwMyAyOTYuNSA0MjQuMDAzQzQ4Ny41IDQyNC4wMDMgMzc0IDE5MS4wMDUgNTY5IDE5MS4wMDFDNjEzLjg4NiAxOTEgNjU4Ljk2NiAxOTEgNjk4LjAyNSAxOTFDNzYyLjM2NiAxOTEuMDAxIDgxNC41IDI0My4xNiA4MTQuNSAzMDcuNTAxQzgxNC41IDM3MS44NDMgNzYyLjM0IDQyNC4wMDMgNjk3Ljk5OCA0MjQuMDAzSDUyMy41IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjQ4IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMjU2IDUxMC4wMDJDMjcwLjM1OSA1MTAuMDAyIDI4MiA1MjEuNjQzIDI4MiA1MzYuMDAyQzI4MiA1NTAuMzYxIDI3MC4zNTkgNTYyLjAwMiAyNTYgNTYyLjAwMkgxNDhDMTMzLjY0MSA1NjIuMDAyIDEyMiA1NTAuMzYxIDEyMiA1MzYuMDAyQzEyMiA1MjEuNjQzIDEzMy42NDEgNTEwLjAwMiAxNDggNTEwLjAwMkgyNTZaTTcxMiA1MTAuMDAyQzcyNi4zNTkgNTEwLjAwMiA3MzggNTIxLjY0MyA3MzggNTM2LjAwMkM3MzggNTUwLjM2MSA3MjYuMzU5IDU2Mi4wMDIgNzEyIDU2Mi4wMDJIMzYwQzM0NS42NDEgNTYyLjAwMiAzMzQgNTUwLjM2MSAzMzQgNTM2LjAwMkMzMzQgNTIxLjY0MyAzNDUuNjQxIDUxMC4wMDIgMzYwIDUxMC4wMDJINzEyWiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNDQ0IDYyOC4wMDJDNDU4LjM1OSA2MjguMDAyIDQ3MCA2MzkuNjQzIDQ3MCA2NTQuMDAyQzQ3MCA2NjguMzYxIDQ1OC4zNTkgNjgwLjAwMiA0NDQgNjgwLjAwMkgxMDBDODUuNjQwNiA2ODAuMDAyIDc0IDY2OC4zNjEgNzQgNjU0LjAwMkM3NCA2MzkuNjQzIDg1LjY0MDYgNjI4LjAwMiAxMDAgNjI4LjAwMkg0NDRaTTU0OCA2MjguMDAyQzU2Mi4zNTkgNjI4LjAwMiA1NzQgNjM5LjY0MyA1NzQgNjU0LjAwMkM1NzQgNjY4LjM2MSA1NjIuMzU5IDY4MC4wMDIgNTQ4IDY4MC4wMDJDNTMzLjY0MSA2ODAuMDAyIDUyMiA2NjguMzYxIDUyMiA2NTQuMDAyQzUyMiA2MzkuNjQzIDUzMy42NDEgNjI4LjAwMiA1NDggNjI4LjAwMlpNNzYwIDYyOC4wMDJDNzc0LjM1OSA2MjguMDAyIDc4NiA2MzkuNjQzIDc4NiA2NTQuMDAyQzc4NiA2NjguMzYxIDc3NC4zNTkgNjgwLjAwMiA3NjAgNjgwLjAwMkg2NTJDNjM3LjY0MSA2ODAuMDAyIDYyNiA2NjguMzYxIDYyNiA2NTQuMDAyQzYyNiA2MzkuNjQzIDYzNy42NDEgNjI4LjAwMiA2NTIgNjI4LjAwMkg3NjBaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPgo=&logoColor=white"/>
 </div>
 
-**Backend**
+**⚙️ Backend**
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
-**DevOps / Infra**
+**🚀 DevOps / Infra**
 
 <div>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
+</div>
+
+**🌱 Learning**
+
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</div>
+
+**📚 Studied**
+
+<div>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </div>
 
 ## 🚀 Projects
