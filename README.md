@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KimJayhyun&fontSize=50&fontAlign=50&fontAlignY=35&desc=AI%20Backend%20Engineer&descAlign=50&descAlignY=55&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KimJayhyun&fontSize=50&fontAlign=50&fontAlignY=35&desc=AI%20Engineer&descAlign=50&descAlignY=55&animation=fadeIn" alt="header"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=500&lines=AI+Backend+Engineer;LLM+Application+Developer;Problem+Solver+%F0%9F%94%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FD8&center=true&vCenter=true&width=500&lines=AI+Engineer;LLM+Application+Developer;Problem+Solver+%F0%9F%94%8D" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,7 +38,6 @@ Currently interested in **LLM Agents (A2A, MCP)** and **Cloud-Native infrastruct
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
-
 
 ## 📊 GitHub Stats
 
