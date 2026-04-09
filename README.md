@@ -48,6 +48,8 @@ Experience in both **SI projects** and **in-house solution development**.
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
 </div>
 
+## 📡 On My Radar
+
 **🌱 Learning**
 
 <div>
@@ -62,6 +64,8 @@ Experience in both **SI projects** and **in-house solution development**.
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </div>
+
+<br/>
 
 ## 💼 Projects
 
