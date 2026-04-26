@@ -18,10 +18,13 @@ The README is organized into the following sections (top to bottom):
    - 🤖 AI: LangChain, Google ADK, MCP, A2A
    - ⚙️ Backend: Python, FastAPI
    - 🐳 Infra: Kubernetes, Helm, Docker, Podman
+   - 📊 Monitoring: Prometheus, Grafana
    - 🚀 DevOps: Jenkins
-4. **📡 On My Radar** — Divided into:
-   - 🌱 Learning: React, Electron, Spring
-   - 📚 Studied: GitHub Actions, Ansible
+4. **📡 On My Radar** — Divided into subcategories (same level as Tech Stack):
+   - 🖥 Frontend: TypeScript, React, Electron
+   - ☕ Backend: Spring
+   - 🧩 Fundamentals: Design Pattern
+   - 📚 Studied: GitHub Actions, Ansible, Redis
 5. **💼 Projects** — Table with Period / Project / Description / Role / Stack (5 SI projects, latest first, company names anonymized)
 6. **🏅 Certifications** — Badge-style: CKA, 정보처리기사, SQLD, 네트워크관리사 2급, +more
 7. **📊 GitHub Stats** — Streak Stats + Top Languages (side by side) + Activity Graph (full width below)
@@ -34,8 +37,8 @@ The README is organized into the following sections (top to bottom):
 - **MCP badge** — Uses Anthropic logo from Simple Icons
 - **Top Languages** — Uses `github-profile-summary-cards.vercel.app` (NOT `github-readme-stats.vercel.app` which is unreliable). Jupyter Notebook excluded via `exclude=jupyter%20Notebook` parameter
 - **Activity Graph** — Uses `github-readme-activity-graph.vercel.app` with `tokyo-night` theme
-- **On My Radar** — Separate section from Tech Stack to distinguish "currently learning/studied" from "hands-on experience"
-- **Learning vs Studied** — Learning = currently studying, Studied = completed courses but not applied in production
+- **On My Radar** — Separate section from Tech Stack to distinguish "currently learning/studied" from "hands-on experience". Uses same 2-level structure as Tech Stack (section → subcategory) for consistency
+- **Studied** — Completed courses or exposure but not applied in production
 
 ## Assets
 
